@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tallesdc
-- 👀 I’m intested  em adquirir conhecimento e fazer novas amizades.
+- 👀 I’m intested  em adquirir conheciment .
 - 🌱 I’m currently learning  HTML5, CSS3 e Java Script.
 - 💞️ I’m looking to collaborate  compartilhando meus projetos em meu repositótio.
 - 📫 How to reach me  pelo meu LinkedIn (Talles Henrique) e e-mail (talles.dc@gmail.com).
